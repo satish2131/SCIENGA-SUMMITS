@@ -1,5 +1,6 @@
-##🌱 Scienga Summits 2026
+🌱 Scienga Summits 2026
 International Conference Website – Renewable & Sustainable Energy
+
 📌 Project Overview
 
 Scienga Summits 2026 is a responsive demo website designed for an international conference on Renewable & Sustainable Energy.
@@ -7,7 +8,7 @@ The website showcases event details, conference themes, keynote speakers, sessio
 
 This project was developed as part of an internship creativity and technical evaluation task, focusing on UI/UX, responsiveness, and basic JavaScript interactions.
 
-##🎯 Purpose of the Website
+🎯 Purpose of the Website
 
 Promote an international academic & industry conference
 
@@ -21,7 +22,7 @@ Encourage networking and participation
 
 Demonstrate front-end development skills
 
-##👥 Target Audience
+👥 Target Audience
 
 Researchers & Scientists
 
